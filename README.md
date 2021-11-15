@@ -4,7 +4,7 @@
 - 💞️ I’m looking for some freelancer works on Flutter or iOS.
 - 🚀 Fun Facts: I love exploring Space, Build up oneself, and also Gaming.
 - 📫 How to reach me:
-  + Email: pichkhmer007@gmail.com
+  + Email: pich.optistech@gmail.com
   + FB: Monipich MP
 
 <!---
